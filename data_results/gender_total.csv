@@ -1,0 +1,3 @@
+gender,SUM(purchase_amount)
+Male,157890
+Female,75191

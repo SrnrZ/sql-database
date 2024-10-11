@@ -1,0 +1,13 @@
+age_group,category,total_purchase
+18-29,Accessories,16622
+18-29,Clothing,24221
+18-29,Footwear,7903
+18-29,Outerwear,4159
+30-49,Accessories,28089
+30-49,Clothing,38319
+30-49,Footwear,12951
+30-49,Outerwear,7407
+"50 and above",Accessories,29489
+"50 and above",Clothing,41724
+"50 and above",Footwear,15239
+"50 and above",Outerwear,6958
