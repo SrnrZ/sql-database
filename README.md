@@ -45,13 +45,3 @@ While some hypotheses were refuted, the project still provided valuable insights
 ## Technologies Used
 - SQL
 - ER Diagramming Tools
-
-## How to Run the Project
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-repo-name/sql-database-purchase-behavior.git
-    ```
-2. Execute the SQL scripts in your preferred database environment.
-
-## License
-This project is licensed under the MIT License.
